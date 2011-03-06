@@ -20,13 +20,13 @@ a:hover {
 }
 
 input[type="text"], input[type="password"], textarea {
-    border-color: #d0d0d0;
+    border-color: #302E30;
     color: #666666;
     background-color: #201E20;
 }
 
 input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
-    border-color: #a0a0a0;
+    border-color: #302E30;
     color: #eaeaea;
 }
 
